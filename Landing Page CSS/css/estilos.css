@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;800&family=Open+Sans:wght@800&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+
+body{
+    background-color: black;
+    background-image: url("../images/fondo-gradiente.png");
+    background-size: 1400px 800px;
+    background-position: center center center;
+    background-repeat: no-repeat;
+}
+
+#logo{
+    float:left;
+
+}
+
+#fotoperfil{
+    float: center;
+
+}
+
+.hello{
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+
+#resal li a:hover{
+    background-color:rgba(151, 255, 32, 0.425) ;
+}
+
+
+
+#nombredeuser{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#layout{
+    display: flex;
+    
+}
+
+#layouttienda{
+    display: flex;
+    text-align: center;
+
+}
+
+.statsbarra{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#letrastienda{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: antiquewhite;
+    text-align: left;
+}
+
+p{
+    text-size-adjust: 40;
+}
+
+#descargando{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+}
+ 
+#stvtrabaja{
+    color: white;
+    font-size: 20px;
+
+}
+
+#WZdescrip{
+    background-color: rgba(0, 0, 0, 0.582);
+}
+#FGdescrip{
+    background-color: rgba(0, 0, 0, 0.582);
+}
+#FNdescrip{
+    background-color: rgba(0, 0, 0, 0.582);
+}
+
+#registro{
+    text-align: center;
+    padding-top: 40px;
+    background-color: rgba(237, 240, 243, 0.425);
+}
+
+.registroelementos{
+    color: rgb(146, 146, 175);
+    left: 25%;
+}
+#ingdatosquote{
+    font-family: 'Montserrat', sans-serif;
+}
